@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Data2Policy Navigator - Humanitarian Policy Insights</title>
+    <link>https://yourusername.github.io/data2policy/</link>
+    <description>AI-driven strategic knowledge base for humanitarian data policy, GIS, M&E, and evidence-based policymaking. Explore 50+ curated policy insights by Shahzad ASGHAR, UN AI Expert.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2026 00:00:00 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate>
+    <managingEditor>shahzadasghar@example.com (Shahzad ASGHAR)</managingEditor>
+    <webMaster>shahzadasghar@example.com (Shahzad ASGHAR)</webMaster>
+    <copyright>Copyright 2026 Shahzad ASGHAR. Licensed under CC BY 4.0</copyright>
+    <category>Education</category>
+    <category>Technology</category>
+    <category>Government</category>
+    <generator>Data2Policy Navigator v8.0</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>1440</ttl>
+    <image>
+      <url>https://yourusername.github.io/data2policy/icon.png</url>
+      <title>Data2Policy Navigator</title>
+      <link>https://yourusername.github.io/data2policy/</link>
+    </image>
+    <atom:link href="https://yourusername.github.io/data2policy/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Mobile Data Collection Strategies for Remote Areas</title>
+      <link>https://yourusername.github.io/data2policy/#1767704654</link>
+      <description>Key strategies include identifying trusted data sources, building partnerships with local organizations, ensuring ethical practices, adapting technology to local contexts, training field teams, and leveraging satellite data for comprehensive coverage.</description>
+      <category>Data Collection &amp; Sources</category>
+      <dc:creator>Shahzad ASGHAR</dc:creator>
+      <pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://yourusername.github.io/data2policy/#1767704654</guid>
+    </item>
+
+    <item>
+      <title>Geospatial Technologies for Infrastructure Planning</title>
+      <link>https://yourusername.github.io/data2policy/#1767704661</link>
+      <description>Geospatial technologies enable mapping, visualization, data integration, population analysis, sustainable planning, disaster resilience, and resource optimization for effective infrastructure development.</description>
+      <category>Geospatial &amp; Mapping</category>
+      <dc:creator>Shahzad ASGHAR</dc:creator>
+      <pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://yourusername.github.io/data2policy/#1767704661</guid>
+    </item>
+
+    <item>
+      <title>Predictive Analytics for Public Health Trends</title>
+      <link>https://yourusername.github.io/data2policy/#1767704669</link>
+      <description>Effective methods include data integration across sources, statistical modeling with ML algorithms, anomaly detection, predictive simulation tools, and outcome tracking dashboards for proactive health interventions.</description>
+      <category>Analysis &amp; Visualization</category>
+      <dc:creator>Shahzad ASGHAR</dc:creator>
+      <pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://yourusername.github.io/data2policy/#1767704669</guid>
+    </item>
+
+    <item>
+      <title>Impact Evaluation Frameworks for Development Projects</title>
+      <link>https://yourusername.github.io/data2policy/#1767704674</link>
+      <description>Robust frameworks include monitoring policy implementation, evaluating policy impact, utilizing visualization and analysis tools, and ensuring ethics and governance standards in international development.</description>
+      <category>Monitoring, Evaluation &amp; Learning</category>
+      <dc:creator>Shahzad ASGHAR</dc:creator>
+      <pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://yourusername.github.io/data2policy/#1767704674</guid>
+    </item>
+
+    <item>
+      <title>Data Protection Strategies with Usability</title>
+      <link>https://yourusername.github.io/data2policy/#1767704681</link>
+      <description>Strategies include prioritizing data ethics and governance, building data capacities, using secure yet usable tools, developing institutional mechanisms, and leveraging frameworks like GDPR.</description>
+      <category>Data Ethics, Protection &amp; Governance</category>
+      <dc:creator>Shahzad ASGHAR</dc:creator>
+      <pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://yourusername.github.io/data2policy/#1767704681</guid>
+    </item>
+
+    <item>
+      <title>Social Media Data for Crisis Sentiment Analysis</title>
+      <link>https://yourusername.github.io/data2policy/#1767705827</link>
+      <description>Leverage social media for improved crisis response through NLP sentiment analysis, geographic mapping, anomaly detection, and real-time community needs assessment during emergencies.</description>
+      <category>Data Collection &amp; Sources</category>
+      <dc:creator>Shahzad ASGHAR</dc:creator>
+      <pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://yourusername.github.io/data2policy/#1767705827</guid>
+    </item>
+
+    <item>
+      <title>Evidence Synthesis Methods for Policy Decisions</title>
+      <link>https://yourusername.github.io/data2policy/#1767705834</link>
+      <description>Effective methods for synthesizing data include integrated frameworks, data validation, dynamic modeling, stakeholder consultations, AI analytics, and continuous monitoring for informed policy-making.</description>
+      <category>Policy &amp; Decision-Making</category>
+      <dc:creator>Shahzad ASGHAR</dc:creator>
+      <pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://yourusername.github.io/data2policy/#1767705834</guid>
+    </item>
+  </channel>
+</rss>
